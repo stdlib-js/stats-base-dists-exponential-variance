@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-06)
+## Unreleased (2025-06-15)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0449885`](https://github.com/stdlib-js/stdlib/commit/044988596dc1f7bc9084033663a426ef366e564c) - **docs:** replace manual `for` loop in examples [(#7367)](https://github.com/stdlib-js/stdlib/pull/7367) _(by Harsh)_
 -   [`49608b5`](https://github.com/stdlib-js/stdlib/commit/49608b5e1368b9b4bd5c53f1ee1e037855e339b5) - **feat:** add C implementation for `stats/base/dists/exponential/variance` [(#4014)](https://github.com/stdlib-js/stdlib/pull/4014) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 -   [`3250d4f`](https://github.com/stdlib-js/stdlib/commit/3250d4fb004a417dfd58fdc5a58d7efabc0f2b6e) - **bench:** refactor random number generation in `stats/base/dists/exponential` [(#4917)](https://github.com/stdlib-js/stdlib/pull/4917) _(by Karan Anand)_
 
@@ -47,9 +48,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
 
